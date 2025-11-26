@@ -45,4 +45,15 @@
     .challenge {
         gap: 0.25rem;
     }
+
+    @media (min-width: 640px) {
+        #welcome {
+            gap: 2rem;
+            padding: 2rem 0;
+        }
+
+        .benefits {
+            gap: 2rem;
+        }
+    }
 </style>

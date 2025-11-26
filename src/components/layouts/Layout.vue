@@ -14,6 +14,7 @@
     <a href="https:/www.github.com/YasBezerra" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/191687093?v=4" alt="pfp">
         <p>YasBezerra</p>
+        <i class="fa-brands fa-github"></i>
 
     </a>
 </footer>
